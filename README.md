@@ -14,7 +14,7 @@ This project simulates real-world network attacks and defense strategies using K
 🖥 Operating Systems
 
 - Kali Linux – Attacker Machine
-- 
+  
 - Metasploitable 2 – Target Machine
 
 
