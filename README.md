@@ -15,6 +15,7 @@ This project simulates real-world network attacks and defense strategies using K
 🖥 Operating Systems
 
 Kali Linux – Attacker Machine
+
 Metasploitable 2 – Target Machine
 
 🛠 Tools Used
@@ -78,5 +79,7 @@ This project is for educational purposes only. All activities were performed in 
 CVE-2011-2523
 
 Metasploit Documentation
+
 John the Ripper
+
 Apache Vulnerabilities
