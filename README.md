@@ -77,9 +77,6 @@ This project is for educational purposes only. All activities were performed in 
 📎 References
 
 CVE-2011-2523
-
 Metasploit Documentation
-
 John the Ripper
-
 Apache Vulnerabilities
