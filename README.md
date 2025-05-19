@@ -73,6 +73,7 @@ and R services pose serious security risks and how to patch or replace them.
 ⚠ Disclaimer
 
 This project is for educational purposes only. All activities were performed in a safe, offline lab environment. Do not attempt these techniques on real networks without explicit permissions.
+
 📎 References
 
 [CVE-2011-2523](https://nvd.nist.gov/vuln/detaiCVE-2011-2523)
